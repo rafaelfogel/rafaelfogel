@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, I'm Rafael. I'm brand new to development. 
 <!--
 **rafaelfogel/rafaelfogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
